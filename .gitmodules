@@ -1,3 +1,6 @@
 [submodule "modulo-10.5-Vuex-Searcher"]
 	path = modulo-10.5-Vuex-Searcher
 	url = https://github.com/martafontb/modulo-10.5-Vuex-Searcher
+[submodule "slot-filter-animation"]
+	path = slot-filter-animation
+	url = https://github.com/martafontb/slot-filter-animation
